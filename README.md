@@ -1,5 +1,10 @@
 # VoiceFishing
 
+보이스피싱 방지 앱
+
+FrontEnd: React Native+ Expo
+BackEnd : Node Js + Express
+
 설치 방법
 
  1. 해당 repository를 pull 받습니다
